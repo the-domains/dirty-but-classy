@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dirty But Classy]]></title>
         <description><![CDATA[Dirty But Classy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dirty-but-classy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 17:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 17:21:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dirty-but-classy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ba8a96-a1ce-4122-9888-cfa206b79b4d.jpg">]]></description>
-            <link>undefined413c194f-47af-4553-927e-ec8e2131e970/index.html</link>
+            <link>https://thegrid.ai/dirty-but-classy/413c194f-47af-4553-927e-ec8e2131e970/index.html</link>
             <guid isPermaLink="false">413c194f-47af-4553-927e-ec8e2131e970</guid>
-            <pubDate>Sat, 16 Jan 2016 17:12:22 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 17:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
