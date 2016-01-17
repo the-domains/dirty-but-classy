@@ -1,7 +1,7 @@
 name: Dirty But Classy
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.54401
+layout_spectrum: 0.08811804722063243
+typography_spectrum: 0.027300640009343624
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#baa999'
-    - '#e9d2b2'
-    - '#8b7f8b'
-    - '#382a25'
-    - '#ca7640'
-  brandStrength: 0.8125
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8404481236357242
   lightness: 0.3465847058687359
   saturation: 0.16050430899485946
   rhythmicContrast: 0.7659287068527192
